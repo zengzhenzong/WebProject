@@ -1,5 +1,7 @@
 package testCase;
 
 public class test {
-	System.out.print("helloworld!");
+	public static void main(String[] args){
+		System.out.println("helloworld!");
+	}
 }
